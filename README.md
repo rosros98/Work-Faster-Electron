@@ -43,7 +43,20 @@ It helps users stay focused using structured work sessions and smart break remin
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-
 ```bash
 git clone https://github.com/rosros98/Work-Faster-Electron.git
 cd Work-Faster-Electron
+```
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+### 3️⃣ Run the app in development mode
+```bash
+npm start
+```
+### 4️⃣ Build desktop app
+```bash
+npm run build
+npm run electron
+```
